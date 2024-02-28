@@ -1,7 +1,5 @@
 # Ecommerce Website Project
 
-![Ecommerce Website Preview](preview.png)
-
 ## Overview
 This project is an Ecommerce website built using HTML, CSS, and Bootstrap. It features a responsive design that displays various products, offers, and services with an aesthetically pleasing layout.
 
